@@ -42,4 +42,9 @@
   GitHub:  [antger78](https://github.com/antger78)
   
   Email:  anthony.geritano@aya.yale.edu
+
+![Homepage](https://github.com/antger78/note_taker/blob/main/Readme_Screenshots/homepage.png?raw=true)
+
+![Notespage](https://github.com/antger78/note_taker/blob/main/Readme_Screenshots/notespage.png?raw=true)
+
   
